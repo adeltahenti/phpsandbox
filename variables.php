@@ -7,7 +7,7 @@
       Comment
     */
 
-    $output = "Hello world";
+    $output = "Hello world!";
     echo $output;
 
 ?>
