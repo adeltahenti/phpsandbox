@@ -14,7 +14,22 @@
       - Only letters , numbers and underscore
       - Case sensitive
     */
+
+    # DATA TYPES
+    /*
+      - String
+      - Integers
+      - Floats
+      - Booleans
+    */
+
     $output = "Hello world!";
-    echo $output;
+    $num1 = 4;
+    $num2 = 10;
+    $sum = $num1 + $num2;
+
+    $float1 = 4.4;
+    $bool1 = true;
+    echo $sum;
 
 ?>
